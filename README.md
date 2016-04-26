@@ -1,1 +1,1 @@
-# NoisyGrayStep
+# NoisyGrayStep## gray.pyThis creates static images illustrating how perceptionof a sharp boundary is hardly affected by image noise.## egray.pyThis creates similar static images illustrating howintroduction of a gradient sharpens perception.## ungray.pyThis uses your first camera to acquire images which are thenprocessed to gray-level boundaries in all three color planes.
